@@ -38,6 +38,8 @@ src/
 ```
 
 ---
+## AI Notice
+This project heavily used AI in the process of development.
 
 ## Implementation Status
 
